@@ -15,4 +15,4 @@ Description.propTypes = {
   text: PropTypes.string.isRequired
 }
 
-export default DescriptionDetail;
+export default Description;
